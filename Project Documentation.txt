@@ -1,0 +1,28 @@
+
+
+Project Name: 
+My Movie DB
+-------------------------------------
+
+Project Description: 
+Fully functional application that allows user to search movies, invite friends and much more.
+-------------------------------------
+
+Team Member and Roles: 
+Yash Shah - Back End, 
+Misil Pathak - Database, 
+Varun Patel - RabbitMQ, 
+Lokesh Patel - Front End
+-------------------------------------
+
+Expected Deliverables (Team Specific):
+- FriendsList
+- WatchList
+- Search Movies locally
+- Invite friend to watch a movie the user like
+- Suggest a movie that two or more people have in their watchlist and would like to watch
+-------------------------------------
+
+
+
+
